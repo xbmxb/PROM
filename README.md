@@ -15,6 +15,8 @@ Accepted by COLING2024.
 
 This repo will be improved continually.
 
+- Add checkpoints.
+
 ```
 @article{ma2023prom,
   title={PROM: A Phrase-level Copying Mechanism with Pre-training for Abstractive Summarization},
