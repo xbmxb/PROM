@@ -11,6 +11,8 @@ Further analysis shows that PROM performs more reasonable copying and contribute
 
 ![](prom_overview.png)
 
+Accepted by COLING2024.
+
 This repo will be improved continually.
 
 ```
