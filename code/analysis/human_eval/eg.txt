@@ -1,0 +1,16 @@
+Article:
+Alexys Brown, also known as Lexi, died at her home in Emmadale Close, Weymouth, on Thursday. An investigation is under way to discover how she became trapped. A post-mortem examination is due to be carried out this week. It was originally hoped the appeal would raise £2,000. Alison Record, who started the Just Giving appeal, said she was "heart broken" over the death. “Everybody by now has heard of the terrible tragedy the Brown family have suffered with the loss of their beautiful and beloved little girl Lexi,” the appeal page reads. Many other comments have been posted on the appeal page. Steph Harris said: “Thinking of you all at this devastating time, fly high beautiful princess. Love Steph and family xxx” Lesley Andrews added: “No amount of money will take away the pain, but so much love comes with every penny. Take care. xx” Aster Group, the housing association responsible for managing the home, is assisting with the police investigation. The Health and Safety Executive (HSE) is also investigating. Dorset County Council said it had not installed the disabled lift at the property.
+
+----------------------------------------
+Summary #1
+Alexys Brown, also known as Lexi, died at her home in Emmadale Close, Weymouth, on Thursday.
+----------------------------------------
+Summary #2
+Alexys Brown, also known as Lexi, died of cancer. The appeal was originally hoped for raising 2,000 pounds.
+----------------------------------------
+
+Scores:
+*****Faithfulness: 2
+*****Informativeness: 2 
+*****Readability: 0
+*****Conciseness: 2
